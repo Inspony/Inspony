@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! This is Erys214（贰壹肆）👋<br>I'm a Chinese<br>I'm glad to see you here.<br>You can contact me by Email:Erys214@163.com
+Hi! This is Erys214（贰壹肆）👋<br>I'm a Chinese<br>I'm glad to see you here.<br>You can contact me by Email:i@erys214.icu
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=erys214&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)<br/>
