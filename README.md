@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! This is Ixticu（贰壹肆）👋<br>I'm a Chinese<br>I'm glad to see you here.<br>You can contact me by Email:wo@ixt.icu
+Hi! This is ixticu（贰壹肆）👋<br>I'm a Chinese<br>I'm glad to see you here.<br>You can contact me by Email:wo@ixt.icu
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ixticu&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)<br/>
