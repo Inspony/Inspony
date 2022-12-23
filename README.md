@@ -2,7 +2,7 @@
 Hi! This is Inspony 👋<br>I'm a Chinese<br>I'm glad to see you here.<br>You can also call me Noe Ayto , which is my English name.<br>You can contact me by Email:wo@ixt.icu
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Inspony&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=inspony&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Inspony&theme=flag-india&hide_border=false)<br/>
 
 # 💻 Tech Stack:
