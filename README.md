@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! This is Codie Taylor 👋<br>You can contact me by Email:i@sunwind.top
+Hi! This is Sakanai 👋<br>You can contact me by Email:i@sunwind.top
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sakanai&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)<br/>
