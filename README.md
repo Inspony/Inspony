@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! This is Charlie Wang 👋<br>You can contact me by Email:wangyunkai999@gmail.com
+Hi! This is Charlie Wang 👋<br>You can contact me by Email:CharlieWang404@hotmail.com
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CharlieWang404&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CharlieWang404&theme=flag-india&hide_border=false)<br/>
