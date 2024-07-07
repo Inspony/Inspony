@@ -1,5 +1,3 @@
-# 💫 About Me:
-Hi! This is David Wang 👋<br>You can contact me by Email:wangyunkai999@gmail.com
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Inspony&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Inspony4&theme=flag-india&hide_border=false)<br/>
